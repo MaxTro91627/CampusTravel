@@ -1,11 +1,11 @@
 # CampusTravel.
 
 ## Содержание.
-  * [Доменная область.](https://github.com/MaxTro91627/CampusTravel#доменная-область.)
-  * [Use-сase.](https://github.com/MaxTro91627/CampusTravel#use-case.)
+  * [Доменная область.](https://github.com/MaxTro91627/CampusTravel#доменная-область)
+  * [Use-сase.](https://github.com/MaxTro91627/CampusTravel#use-case)
   * [Описание функциональных и нефункциональных требований.](https://github.com/MaxTro91627/CampusTravel#описание-функциональных-и-нефункциональных-требований)
-  * [Компонентная модель.](https://github.com/MaxTro91627/CampusTravel#компонентная-модель.)
-  * [Референсная архитектура.](https://github.com/MaxTro91627/CampusTravel#референсная-архитектура.)
+  * [Компонентная модель.](https://github.com/MaxTro91627/CampusTravel#компонентная-модель)
+  * [Референсная архитектура.](https://github.com/MaxTro91627/CampusTravel#референсная-архитектура)
 
 ## Доменная область.
 
