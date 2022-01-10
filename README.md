@@ -1,4 +1,4 @@
-# Встраиваемая система для геймификации процесса взаимодействия между сотрудниками
+# CampusTravel.
 ## Содержание
   * [Доменная область.](https://github.com/MaxTro91627/CampusTravel#lоменная-область.)
   * [Use-Cases](https://github.com/Bopobywek/Soiree#use-cases)
