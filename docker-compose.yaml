@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+    php:
+        image: campustravel/web:dev
+        build: .
+        ports:
+            - 8080:80
+        volumes:
+            - /var/www/html
+            - ./htdocs:/var/www/html
+            - ./.htaccess.dev:/var/www/html/.htaccess
