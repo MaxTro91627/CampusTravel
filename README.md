@@ -86,5 +86,5 @@
     * Поддерживаемость. 
 ## Компонентная модель.
 
-![Untitled](https://user-images.githubusercontent.com/59890211/148894265-5af323a8-f4ee-4c03-8ec5-1e4f9472e8cf.png)
+![CompModel](https://user-images.githubusercontent.com/59890211/158279058-8f213abb-73db-4746-818f-2d3d5093f36c.png)
 
