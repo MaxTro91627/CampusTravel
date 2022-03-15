@@ -6,7 +6,7 @@
   * [Функциональные и нефункциональные требования.](https://github.com/MaxTro91627/CampusTravel#функциональные-и-нефункциональные-требования)
   * [Референсная архитектура.](https://github.com/MaxTro91627/CampusTravel#референсная-архитектура)
   * [Компонентная модель.](https://github.com/MaxTro91627/CampusTravel#компонентная-модель)
-  * [ссылка на сайт.](https://github.com/MaxTro91627/CampusTravel#ссылка-на-сайт)
+  * [Cсылка на сайт.](https://github.com/MaxTro91627/CampusTravel#ссылка-на-сайт)
 
 ## Доменная область.
 
@@ -89,5 +89,5 @@
 
 ![CompModel](https://user-images.githubusercontent.com/59890211/158279195-748bed29-72aa-4610-96ea-006ee40e1cbb.png)
 
-## Ссылка на сайт
+## Ссылка на сайт.
  * http://campustravel.ru
