@@ -93,4 +93,4 @@
 ## Ссылка на сайт.
  * http://campustravel.ru
 ## Ссылка на DockerHub.
- * https://hub.docker.com/r/campustravel/dev2
+ * https://hub.docker.com/r/campustravel/dev6
